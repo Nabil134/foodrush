@@ -1,4 +1,5 @@
-![Uploading FoodRush_Showcase.png…]()
+<img width="4000" height="3270" alt="FoodRush_Showcase" src="https://github.com/user-attachments/assets/834c15d2-b34b-475a-86e4-ebdfdd2a03dc" />
+
 # food_rush
 
 A new Flutter project.
